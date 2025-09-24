@@ -1,5 +1,5 @@
 
-# SC_302_Documentacion_LN_YulisaMJAgregué una línea al README
+# SC_302_Documentacion_LN_YulisaMJ
 
 Esta es mi práctica con GitHub.
 
